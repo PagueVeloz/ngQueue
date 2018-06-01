@@ -1,5 +1,5 @@
 {
-  "name": "ngqueue",
+  "name": "@pagueveloz/ngqueue",
   "version": "0.2.1",
   "description": "ngQueue is an AngularJS module that helps you to handle routine sync/async queue task in AngularJS with ease.",
   "main": "nqQueue.js",
@@ -12,7 +12,11 @@
     "url": "https://github.com/pc035860/ngQueue.git"
   },
   "keywords": [
-    "angularjs"
+    "angularjs",
+    "ng",
+    "queue",
+    "async",
+    "sync"
   ],
   "author": "Robin Fan",
   "license": "MIT",
