@@ -1,8 +1,8 @@
 {
-  "name": "ngQueue",
-  "version": "0.2.0",
+  "name": "ngqueue",
+  "version": "0.2.1",
   "description": "ngQueue is an AngularJS module that helps you to handle routine sync/async queue task in AngularJS with ease.",
-  "main": "index.js",
+  "main": "nqQueue.js",
   "directories": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
